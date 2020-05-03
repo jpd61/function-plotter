@@ -1,3 +1,17 @@
+console.log(`
+Interactive Function Plotter
+W3Cx: JS.0x
+JavaScript Introduction
+
+Developed by:
+Joseph DeWoody
+
+https://jpd61.github.io/function-plotter/
+
+Repository:
+https://github.com/jpd61/function-plotter
+`);
+
 var parameters = {
     target: '#myFunction',
     data: [{
